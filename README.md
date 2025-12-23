@@ -47,7 +47,6 @@ endmodule
 
 **RTL realization**
 
-<img width="820" height="808" alt="ex 2" src="https://github.com/user-attachments/assets/a73209fd-b85a-489e-a45d-cc22a665b187" />
 
 
 **Output:**
@@ -55,6 +54,8 @@ endmodule
 <img width="1920" height="1125" alt="ex2" src="https://github.com/user-attachments/assets/9719681a-7cce-4508-acd6-374238468368" />
 
 **RTL**
+
+<img width="820" height="808" alt="ex 2" src="https://github.com/user-attachments/assets/a73209fd-b85a-489e-a45d-cc22a665b187" />
 
 **Timing Diagram**
 
